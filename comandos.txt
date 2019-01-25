@@ -1,0 +1,11 @@
+para rodar os testes
+npm run test
+
+opcoes para usar no expect
+https://github.com/diego3g/react-testing-cheat-sheet
+
+Rodar a API de testes
+json-server server.json -d 2000
+
+Rodar o coverage dos testes
+npm run test --coverage
